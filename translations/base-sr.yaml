@@ -96,7 +96,7 @@ mainMenu:
         chrome.
     savegameLevel: Nivo <x>
     savegameLevelUnknown: Nepoznat Nivo
-    savegameUnnamed: Unnamed
+    savegameUnnamed: 0
 dialogs:
     buttons:
         ok: OK
